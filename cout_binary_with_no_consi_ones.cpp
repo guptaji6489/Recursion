@@ -6,6 +6,7 @@
 using namespace std;
 int countb(int n)
 {
+    //countb
 
     if(n==1 or n==2)
     {
