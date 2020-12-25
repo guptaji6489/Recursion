@@ -17,7 +17,7 @@ int board(int start,int n)
         return 0;
     }
 
-
+    //board path
     for(int jump = 1;jump<=3;jump++)
     {
         //start =start+jump;
