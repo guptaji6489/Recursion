@@ -14,6 +14,7 @@ int board(int sr,int sc,int er,int ec)
     {
         return 0;
     }
+    //count maze
 
 
 
